@@ -1,0 +1,56 @@
+[
+    {
+        "question": "What type of language is HTML",
+        "choices": [
+            "1. Markup Language",
+            "2. Logic Language",
+            "3. OOP Language",
+            "4. Scripting Language"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does prolog stand for",
+        "choices": [
+            "1. Professional Logarithm",
+            "2. Programmable Log-in",
+            "3. Programming Logic",
+            "4. Progressive Logotype",
+            "5. Programmer Logfile"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In what language is Microsoft Windows kernel developed in",
+        "choices": [
+            "1. Dart",
+            "2. Python",
+            "3. Prolog",
+            "4. Lua",
+            "5. JavaScript",
+            "6. C"
+        ],
+        "correctAnswer": 6
+    },
+    {
+        "question": "Which language is not a part of the C language family",
+        "choices": [
+            "1. C",
+            "2. C**",
+            "3. C++",
+            "4. C#",
+            "5. C--"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of these languages is the oldest",
+        "choices": [
+            "1. Java",
+            "2. Python",
+            "3. Lua",
+            "4. Fortran"
+        ],
+        "correctAnswer": 4
+    }
+]
